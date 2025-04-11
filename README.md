@@ -1,8 +1,3 @@
-# Superstore Sales Power BI Dashboard
-
-This Power BI dashboard provides an analysis of Superstore sales data, with dynamic insights into trends, top-performing metrics and variable segmentation.
-
----
 
 ## 📌 Live Dashboard Link
 
