@@ -4,9 +4,10 @@ This Power BI dashboard provides an analysis of Superstore sales data, with dyna
 
 ---
 
-## 📌 Live Dashboard Link
+🔗 ## 📌 Live Dashboard Link
 
-🔗 **[Click here to view the live report]([https://app.powerbi.com/view?r=YOUR_PUBLIC_LINK_HERE](https://app.powerbi.com/groups/me/reports/ee1a4ab8-cf63-4757-bb12-6494faf50554/b2df92bd1e5c546c2be2?experience=power-bi))**
+**[Click here to view the live report](https://app.powerbi.com/groups/me/reports/ee1a4ab8-cf63-4757-bb12-6494faf50554/b2df92bd1e5c546c2be2?experience=power-bi)**
+
 ---
 
 # 📊 Superstore Sales Dashboard & Forecast Report
